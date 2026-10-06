@@ -1,1 +1,1 @@
-https://i.pinimg.com/736x/40/42/fb/4042fb7fda1efa988f4ba71280433f76.jpg
+trying to figure out this whole readme thing. coding isnt for me... can someone make me a erstz inspired readme i beg.
