@@ -12,7 +12,7 @@
 <p align="center">
 <a href="https://eersatz.straw.page/" target="_blank">Straw</a> || <a href="https://knockout.atabook.org/" target="_blank">ata</a> 
  <p align="center">
- $\color{#A9B090}\text{ PLS SIGN LINKS PLSPLS }$
+ $\color{#A9B090}\text{ sign sp for a kiss from a 6'3 handsome british muscular man }$
 
 
 <p align="center">
