@@ -24,7 +24,7 @@
 
 
 <p align="center">
- $\color{#736945}\text{ C+H & INT OK BUT I BLOCK FREELY }$
+ $\color{#736945}\text{ C+H AND INT OK BUT I BLOCK FREELY }$
 <p align="center">
  $\color{#665F52}\text{TYSM DEAFF FOR THE README TYTY ILY}$
 
