@@ -34,11 +34,4 @@
  <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/394cc6b8-b825-415d-b6fc-1e66dc62f191" width="300">
  <img alt="Profile Banner" src="https://github.com/user-attachments/assets/394cc6b8-b825-415d-b6fc-1e66dc62f191" 
   </picture width="400">
- $\color{#665F52}\text{ TY FOR THE README DEAFF TYSM ILY}$
 
-
-  <p align="center"> 
- <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/394cc6b8-b825-415d-b6fc-1e66dc62f191" width="300">
- <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/394cc6b8-b825-415d-b6fc-1e66dc62f191" width="300">
- <img alt="Profile Banner" src="https://github.com/user-attachments/assets/394cc6b8-b825-415d-b6fc-1e66dc62f191" 
-  </picture width="400">
