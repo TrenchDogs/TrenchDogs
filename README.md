@@ -6,13 +6,13 @@
 
 
 <p align="center">
- $\color{#A9B090}\text{ NAME }$
+ $\color{#A9B090}\text{ KEEGAN }$
 <p align="center">
- $\color{#665F52}\text{ETC}\color{#736945}\text{ ETC }$
+ $\color{#665F52}\text{ETC}\color{#736945}\text{ HE . HIM }$
 <p align="center">
 <a href="https://eersatz.straw.page/" target="_blank">Straw</a> || <a href="https://knockout.atabook.org/" target="_blank">ata</a> 
  <p align="center">
- $\color{#A9B090}\text{ ETC }$
+ $\color{#A9B090}\text{ 16 }$
 
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 
 <p align="center">
- $\color{#736945}\text{ ETC }$
+ $\color{#736945}\text{ PLS SIGN SP/ATA 🥺 }$
 <p align="center">
- $\color{#665F52}\text{ETC}$
+ $\color{#665F52}\text{ TY FOR THE README DEAFF TYSM ILY}$
 
 
   <p align="center"> 
