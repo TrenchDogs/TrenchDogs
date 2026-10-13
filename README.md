@@ -8,7 +8,7 @@
 <p align="center">
  $\color{#A9B090}\text{ KEEGAN }$
 <p align="center">
- $\color{#665F52}\text{HE. HIM }\color{#736945}\text{ 16 }$
+ $\color{#665F52}\text{HE . HIM }\color{#736945}\text{ 16 }$
 <p align="center">
 <a href="https://eersatz.straw.page/" target="_blank">Straw</a> || <a href="https://knockout.atabook.org/" target="_blank">ata</a> 
  <p align="center">
