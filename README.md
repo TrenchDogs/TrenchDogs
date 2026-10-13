@@ -8,11 +8,11 @@
 <p align="center">
  $\color{#A9B090}\text{ KEEGAN }$
 <p align="center">
- $\color{#665F52}\text{HE}\color{#736945}\text{ HIM }$
+ $\color{#665F52}\text{HE. HIM }\color{#736945}\text{ 16 }$
 <p align="center">
 <a href="https://eersatz.straw.page/" target="_blank">Straw</a> || <a href="https://knockout.atabook.org/" target="_blank">ata</a> 
  <p align="center">
- $\color{#A9B090}\text{ 16 }$
+ $\color{#A9B090}\text{ PLS SIGN MY SP & ATA }$
 
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 
 <p align="center">
- $\color{#736945}\text{ PLS SIGN SP/ATA 🥺 }$
+ $\color{#736945}\text{ C+H & INT R ALWAYS OK BUT I BLOCK FREELY }$
 <p align="center">
  $\color{#665F52}\text{ TY FOR THE README DEAFF TYSM ILY}$
 
