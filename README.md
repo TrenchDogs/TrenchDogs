@@ -6,13 +6,13 @@
 
 
 <p align="center">
- $\color{#A9B090}\text{ KEEGAN }$
+ $\color{#A9B090}\text{ KEEGAN / MARINE }$
 <p align="center">
- $\color{#665F52}\text{HE . HIM }\color{#736945}\text{ | 16 }$
+ $\color{#665F52}\text{HE HIM }\color{#736945}\text{ | 16 }$
 <p align="center">
 <a href="https://eersatz.straw.page/" target="_blank">Straw</a> || <a href="https://knockout.atabook.org/" target="_blank">ata</a> 
  <p align="center">
- $\color{#A9B090}\text{ PLS SIGN MY SP & ATA }$
+ $\color{#A9B090}\text{ PLS SIGN LINKS PLSPLS }$
 
 
 <p align="center">
@@ -24,8 +24,16 @@
 
 
 <p align="center">
- $\color{#736945}\text{ C+H & INT R ALWAYS OK BUT I BLOCK FREELY }$
+ $\color{#736945}\text{ C+H & INT OK BUT I BLOCK FREELY }$
 <p align="center">
+ $\color{#665F52}\text{TYSM DEAFF FOR THE README TYTY ILY}$
+
+
+  <p align="center"> 
+ <source media=" (prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/394cc6b8-b825-415d-b6fc-1e66dc62f191" width="300">
+ <source media=" (prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/394cc6b8-b825-415d-b6fc-1e66dc62f191" width="300">
+ <img alt="Profile Banner" src="https://github.com/user-attachments/assets/394cc6b8-b825-415d-b6fc-1e66dc62f191" 
+  </picture width="400">
  $\color{#665F52}\text{ TY FOR THE README DEAFF TYSM ILY}$
 
 
